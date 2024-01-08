@@ -1,1 +1,6 @@
-# MICROSOFT-FINAL-PROJECT-
+# MICROSOFT-FINAL-PROJECT
+The project of implementing a multiplatform network for Contoso ltd, was a challenging endeavor that required integrating multiple technologies and services. We utilized virtualization technologies to establish a highly available and scalable network infrastructure that provides secure access to network resources for both on-premises and remote employees. By incorporating core network services such as Active Directory, DHCP, DNS, and others, we were able to effectively manage and secure network resources across different geographical locations.
+
+Furthermore, the implementation of routing and remote access services, VPNs, and NAT enabled us to create a seamless and secure network environment that supports remote work and provides secure access to the Internet. We combined the benefits of Linux Centos 8 and Windows Server 2016/2019 to create a flexible and powerful network environment that meets the specific needs of the organization.
+
+Finally, the deployment of Exchange Server 2016/2019 as the messaging server for the entire organization provides a reliable and scalable email solution that enables employees to communicate and collaborate effectively. The successful implementation of this project has resulted in a robust, secure, and highly available network infrastructure that fulfills the requirements of Contoso ltd. and sets the organization up for future growth and success.
